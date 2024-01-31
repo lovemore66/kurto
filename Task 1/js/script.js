@@ -1,4 +1,4 @@
-// Get the current URL
+// Get the current URL/ In a real-world application the code below will need to be commented out to get the actual URL.
 // const currentURL = window.location.href;
 const currentURL = 'https://www.columbiathreadneedle.ie/en/intm/our-products/funds-and-prices/';
 
